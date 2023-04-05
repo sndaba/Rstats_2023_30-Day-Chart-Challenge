@@ -10,7 +10,7 @@ library(dplyr)
 library(ggplot2)
 library(readr)
 
-#ani <- read_csv("https://raw.githubusercontent.com/sndaba/2023_30-Day-Chart-Challenge/main/Day3Flora_Fauna/animal-data-1.csv")
+ani <- read_csv("https://raw.githubusercontent.com/sndaba/2023_30-Day-Chart-Challenge/main/Day3Flora_Fauna/animal-data-1.csv")
 
 ani %>%
  head(10290) %>%
