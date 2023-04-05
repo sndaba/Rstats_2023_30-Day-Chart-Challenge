@@ -1,3 +1,3 @@
 # 2023_30-Day-Chart-Challenge
 
-![image](https://user-images.githubusercontent.com/53818579/229968926-167bf6d8-28c2-4a83-b47b-e2254c8f20c3.png)
+![image](https://user-images.githubusercontent.com/53818579/229969139-7304d788-b8f1-48f0-9498-9e9c2b6bd1d2.png)
