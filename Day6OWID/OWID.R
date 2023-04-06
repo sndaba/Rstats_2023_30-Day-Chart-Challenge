@@ -50,12 +50,12 @@ ggplot() +
         ,panel.background = element_rect(fill = "#444444")
         ,plot.background = element_rect(fill = "#444444")
         ,panel.grid = element_blank()
-        ,plot.title = element_text(size = 15)
-        ,plot.subtitle = element_text(size = 10)
+        ,plot.title = element_text(size = 9)
+        ,plot.subtitle = element_text(size = 6)
         ,axis.text = element_blank()
         ,axis.title = element_blank()
         ,axis.ticks = element_blank()
         ,legend.position = "none"
   )
 
-ggsave("child.png", width = 7,   height = 4)
+ggsave("child.png", width = 6,   height = 4)
