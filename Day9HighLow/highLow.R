@@ -19,7 +19,7 @@ library(forcats)
 library(hrbrthemes)
 library(viridis)
 
-race <- read.csv("/cloud/project/race_wealth.csv")
+race <- read.csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-02-09/race_wealth.csv")
 
 race <- race %>% 
   dplyr::filter(year > 2000)
